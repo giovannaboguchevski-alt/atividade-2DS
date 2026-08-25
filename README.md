@@ -1,34 +1,9 @@
-Atividade 2DS Back-End
+# Sistema de cadastro de jogos
 
-## 📚 Descrição do Projeto
-Este projeto foi criado para colocar em prática a criação e edição de arquivos README no GitHub.
+< Status do projeto: Em desenvolvimento 
 
-O objetivo do projeto é demonstrar como estruturar uma boa documentação inicial para repositórios de código.
+Para rodar esse projeto na sua máquina, por favor digite:
 
-**Público-alvo:** Este projeto foi criado para estudantes e desenvolvedores que desejam aprender a documentar seus sistemas adequadamente. *(Desafio concluído!)*
-
-## 🚧 Status do Projeto
-( ) Em desenvolvimento  
-(X) Finalizado  
-
-## 🔨 Funcionalidades
-- Apresentar as informações principais de um repositório.
-- Documentar o status e o objetivo do sistema.
-- Listar as tecnologias e ferramentas utilizadas.
-- **Utilizar formatação Markdown para organizar o texto.** *(Funcionalidade extra 1)*
-- **Facilitar o entendimento do código para outros programadores.** *(Funcionalidade extra 2)*
-
-## 💻 Tecnologias Utilizadas
-- Markdown
-- Git
-- GitHub
-
-## 📁 Acesso ao Projeto
-O projeto pode ser acessado no meu repositório do GitHub: `atividade-2ds-backend`.
-
-## 👨‍💻 Autor
-Nome: Giovanna Boguchevski de Assis
-
-GitHub:giovannaboguchevski-alt
-
-
+...
+node app.js
+...
